@@ -1,0 +1,35 @@
+html,
+body {
+    padding-top: 20px;
+    height: 100%;
+    background-image: url("https://images.unsplash.com/photo-1421930535025-d2af27c14065?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=686e760fd53bcab95e052a3f3747c11d");
+    background-size: cover;
+    background-color: #333;
+}
+
+body {
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, .10);
+}
+
+.quote-box {
+    color: #4d4d4d;
+    width: 0 auto;
+    padding: 20px;
+    margin: 0 20px;
+    font-style: oblique;
+}
+
+blockquote {
+    text-decoration: none;
+    background-color: #d6d6f5;
+    color: 4d4d4d;
+    border-radius: 25px;
+}
+
+.buttons {
+    color: white;
+    padding: 5px 5px;
+    margin: 5px;
+}
